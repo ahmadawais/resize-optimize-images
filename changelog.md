@@ -29,6 +29,18 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [1.1.0](https://github.com/ahmadawais/resize-optimize-images/compare/1.0.0...1.1.0)
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Fix lingo [`ba99813`](https://github.com/ahmadawais/resize-optimize-images/commit/ba99813a2df5c40692ed8f3dcb5c01c31f3ed0b9) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [1.0.0](https://github.com/ahmadawais/resize-optimize-images/compare/0.1.0...1.0.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -41,6 +53,7 @@ I have released a video course to help you become a better developer — <a href
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
 >  📖 Documentation [`3b267a3`](https://github.com/ahmadawais/resize-optimize-images/commit/3b267a32862d775c23b6649d4fb86718d4a1659c) <br>
+>  📖 Changelog update [`0f365bc`](https://github.com/ahmadawais/resize-optimize-images/commit/0f365bccaac183aaafc4f7370791a3570c7e6e71) <br>
 >  📖 Function [`3bfa58a`](https://github.com/ahmadawais/resize-optimize-images/commit/3bfa58a1e0404b4d444738953b17ea14ddc9de82) <br>
 
 <br>
