@@ -8,5 +8,11 @@ const Jimp = require('jimp');
  * @param Number height Optional number value of height e.g. 1080.
  * @param Number height Optional number value of quality of the image e.g. 90.
  */
+	const defaultOptions = {
+		images: [],
+		width: 1920,
+		height: Jimp.AUTO,
+		quality: 90
+	};
 
 module.exports = () => {};
