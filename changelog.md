@@ -29,11 +29,35 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [1.0.0](https://github.com/ahmadawais/resize-optimize-images/compare/0.1.0...1.0.0)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Tests [`fec2948`](https://github.com/ahmadawais/resize-optimize-images/commit/fec294824ff51107169a957c949741dba334e531) <br>
+> 📦 First version [`37a7d83`](https://github.com/ahmadawais/resize-optimize-images/commit/37a7d8376fc1702bf5cf82be206e3273e5793be5) <br>
+> 📦 Options default [`249aaf3`](https://github.com/ahmadawais/resize-optimize-images/commit/249aaf3a9d56dc2c2c235223348cc82c78737988) <br>
+> 📦 Jimp FTW [`7701693`](https://github.com/ahmadawais/resize-optimize-images/commit/7701693b5522fdfc831764c7c1de43488681fbfd) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Documentation [`3b267a3`](https://github.com/ahmadawais/resize-optimize-images/commit/3b267a32862d775c23b6649d4fb86718d4a1659c) <br>
+>  📖 Function [`3bfa58a`](https://github.com/ahmadawais/resize-optimize-images/commit/3bfa58a1e0404b4d444738953b17ea14ddc9de82) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: 0.1.0
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 First commit [`da55299`](https://github.com/ahmadawais/resize-optimize-images/commit/da552994418f1f983e25d02d5caed7b7db1348a7) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog update [`87e4286`](https://github.com/ahmadawais/resize-optimize-images/commit/87e4286459255925743431555a3a718b3bcf93e8) <br>
 
 <br>
 
