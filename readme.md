@@ -25,12 +25,14 @@ npm install resize-optimize-images
 const resizeOptimizeImages = require('resize-optimize-images');
 
 (async () => {
-	// Usage.
+	// Set the options.
 	const options = {
 		images: ['path/to/image.jpg', 'path/to/image.png'],
 		width: 1920,
 		quality: 90
 	};
+
+	// Run the module.
 	await resizeOptimizeImages(options);
 })();
 ```
