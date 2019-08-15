@@ -1,5 +1,6 @@
 /* RESIZE OPTIMIZE IMAGES */
 const Jimp = require('jimp');
+
 /**
  * Resize + optimize images.
  *
@@ -8,6 +9,7 @@ const Jimp = require('jimp');
  * @param Number height Optional number value of height e.g. 1080.
  * @param Number height Optional number value of quality of the image e.g. 90.
  */
+module.exports = async (options = {}) => {
 	const defaultOptions = {
 		images: [],
 		width: 1920,
@@ -15,4 +17,13 @@ const Jimp = require('jimp');
 		quality: 90
 	};
 
-module.exports = () => {};
+	const opt = { ...defaultOptions, ...options };
+	await Promise.all(
+		opt.images.map(async imgPath => {
+			const image = await Jimp.read(imgPath);
+			await image.resize(opt.width, opt.height);
+			await image.quality(opt.quality);
+			await image.writeAsync(imgPath);
+		})
+	);
+};
