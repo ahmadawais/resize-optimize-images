@@ -1,0 +1,24 @@
+{
+	"name": "resize-optimize-images",
+	"version": "0.0.1",
+	"description": "🗃 Resize and optimize bmp, gif, jpeg, png, &amp; tiff images in Node.js.",
+	"license": "MIT",
+	"repository": "ahmadawais/resize-optimize-images",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"resize-optimize-images",
+		"Ahmad Awais",
+		"ahmadawais"
+	],
+	"scripts": {
+		"test": "node test.js"
+	}
+}
