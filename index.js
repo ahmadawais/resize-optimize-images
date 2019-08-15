@@ -1,4 +1,5 @@
 /* RESIZE OPTIMIZE IMAGES */
+const Jimp = require('jimp');
 /**
  * Resize + optimize images.
  *
