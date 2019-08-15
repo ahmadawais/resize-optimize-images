@@ -23,7 +23,57 @@ npm install resize-optimize-images
 
 ```js
 const resizeOptimizeImages = require('resize-optimize-images');
+
+(async () => {
+	// Usage.
+	const options = {
+		images: ['path/to/image.jpg', 'path/to/image.png'],
+		width: 1920,
+		quality: 90
+	};
+	await resizeOptimizeImages(options);
+})();
 ```
+
+<br />
+
+[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/options.png)](./../../)
+
+## API
+
+### resizeOptimizeImages(options)
+
+#### ❯ options
+
+Type: `object`<br>
+
+You can specify the options below.
+
+##### images
+
+Type: `Array`<br>
+
+Array of paths to images that you want to resize and optimize.
+
+##### width
+
+Type: `Number`<br>
+Default: `1920`
+
+A number value of width e.g. 1920.
+
+##### height
+
+Type: `Number`<br>
+
+Optional number value of height e.g. 1080. If you don't pass a height then image is scaled accordingly with width to preserve the aspect ratio.
+
+##### quality
+
+Type: `Number`<br>
+Default: `90`
+
+Set image quality. `100` being the best quality.
 
 <br>
 
