@@ -22,7 +22,6 @@
 		"test": "ava"
 	},
 	"dependencies": {
-		"@scarf/scarf": "^1.0.6",
 		"jimp": "^0.6.4"
 	},
 	"devDependencies": {
